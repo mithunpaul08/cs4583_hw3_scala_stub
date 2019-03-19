@@ -1,0 +1,4 @@
+Doc1 information retrieval is the most awesome class I ever took.
+Doc2 the retrieval of private information from your emails is a job that the NSA loves.
+Doc3 at university of arizona you learn about data science.
+Doc4 the labrador retriever is a great dog.
