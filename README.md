@@ -5,7 +5,8 @@ you expect to use for this assignment.
 Minimally, you should install:
  
 * [git](https://git-scm.com/downloads)
-* [Python (version 3.8 or higher)](https://www.python.org/)
+* [Python(version 3.8 or higher)](https://www.python.org/)
+* [Pytest](https://docs.pytest.org/en/stable/) if you want to test locally
 
 
 **rest will be ideally installed by the build.sbt in this project when you do sbt compile or sbt test.**
